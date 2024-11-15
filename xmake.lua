@@ -5,7 +5,7 @@ add_requires("argparse")
 add_requires("spdlog")
 set_license("GPL")
 
-target("avs-project")
+target("avs-operator")
     set_kind("binary")
     set_languages("c++17")
     add_files("src/*.cpp")

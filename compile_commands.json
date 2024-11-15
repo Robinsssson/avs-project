@@ -1,21 +1,21 @@
 [
 {
   "directory": "D:\\project\\avs-project",
-  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-project\\windows\\x64\\release\\src\\AVSManager.cpp.obj", "src\\AVSManager.cpp"],
+  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-operator\\windows\\x64\\release\\src\\AVSManager.cpp.obj", "src\\AVSManager.cpp"],
   "file": "src\\AVSManager.cpp"
 },
 {
   "directory": "D:\\project\\avs-project",
-  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-project\\windows\\x64\\release\\src\\ErrorManager.cpp.obj", "src\\ErrorManager.cpp"],
+  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-operator\\windows\\x64\\release\\src\\ErrorManager.cpp.obj", "src\\ErrorManager.cpp"],
   "file": "src\\ErrorManager.cpp"
 },
 {
   "directory": "D:\\project\\avs-project",
-  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-project\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-operator\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
   "file": "src\\main.cpp"
 },
 {
   "directory": "D:\\project\\avs-project",
-  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-project\\windows\\x64\\release\\src\\ThreadManager.cpp.obj", "src\\ThreadManager.cpp"],
+  "arguments": ["gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-fexceptions", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\a\\argparse\\3.1\\96098103d63b4be287a91bc752f2f2aa\\include", "-I", "C:\\Users\\橘子\\AppData\\Local\\.xmake\\packages\\s\\spdlog\\v1.15.0\\b90f1a53d8774e77a175f0acf6ca3954\\include", "-DNDEBUG", "-o", "build\\.objs\\avs-operator\\windows\\x64\\release\\src\\ThreadManager.cpp.obj", "src\\ThreadManager.cpp"],
   "file": "src\\ThreadManager.cpp"
 }]
